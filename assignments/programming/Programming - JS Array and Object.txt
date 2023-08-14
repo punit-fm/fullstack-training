@@ -1,0 +1,15 @@
+Use studentsData.json file
+
+Given data - marks of 3 students in 5 different subjects
+
+1. Process the given data to given the resulting output as,
+    A. Roll No, Name, Average Marks for each student
+    B. Maximum, Minimum score for each student
+2. Create a function to take roll number as parameter and return an object as -
+    {
+        "roll_no": ,
+        "name": ,
+        "average_marks": ,
+        "maximum_marks": ,
+        "minimum_marks":
+    }
