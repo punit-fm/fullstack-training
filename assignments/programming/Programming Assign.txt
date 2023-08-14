@@ -1,0 +1,21 @@
+1. Reverse a non-negative integer
+
+2. Print all prime numbers between 50 and 100 (both inclusive)
+
+3. For an array of intergers, print the unique elements
+
+4. Find number of occurences of each unique character in a given string
+
+5. For an array of integers, print the elements in ascending order of absolute values
+	eg, [5, 12, -13, -10, -8, 20, 1] -> [1, 5, -8, -10, 12, -13, 20]
+
+6. Print Fibonacci series using recursion (upto 500)
+
+7. For a given array of elements (numbers 1 to 20) arrange the elements in following order -> Ascending(Absolute(a[i] - 10))
+	eg, [5, 12, 13, 10, 8, 20, 1] -> [10, 8, 12, 13, 5, 1, 20]
+
+8. Implement bubble sort
+
+9. Implement binary search
+
+10. Spirally traverse a 2D-matrix clock-wise
